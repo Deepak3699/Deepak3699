@@ -1,4 +1,6 @@
-💫 About Me:
+<h2>💫About Me:</h2> 
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 💻 BTech CSE student passionate about building real-world tech solutions.  <br>🚀 Currently working on AI-powered applications and websites .  <br>⚡ Skilled in Python, FastAPI, and frontend development.  <br>🛠  Love turning ideas into practical projects that solve real problems.  <br>📈 Always learning, building, and improving as a developer.
 
 ## 🌐 Socials:
@@ -22,9 +24,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepak3699&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### ✍️ Random Dev Quote
+ ✍️ Random Dev Quote
  <p> Their is no Perfect Time For Anything "There is Only  Now"  </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
