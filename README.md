@@ -29,8 +29,9 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/btwitsdeep7172">Instagram</a> ·
-  <a href="https://www.linkedin.com/in/deepak-khuttan-3b4a29316">LinkedIn</a> ·
+  <a href="https://instagram.com/d036dk">Instagram</a> ·
+  <a href="https://linkedin.com/in/deepak3699">LinkedIn</a> ·
+  <a href="https://youtube.com/@nextgendev3">YouTube</a> ·
   <a href="https://facebook.com/itsDeep7172">Facebook</a> ·
   <a href="mailto:deepakkhuttan65@gmail.com">Email</a>
 </p>
